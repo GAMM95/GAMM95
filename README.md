@@ -1,3 +1,5 @@
+![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
+
 <h1 align="center">Hola 👋, soy Jhonatan Mantilla</h1>
 <h3 align="center">Soy un profesional de la carrera de ingeniería de minas que en los ultimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales, Interesado en saber cómo es que funciona un programa que es manejado desde escritorio de una PC, app mobil y página web, por lo que emprendí una nueva etapa en mi desarrollo profesional en adentrarme en el mundo de la programación.<br> Mientras trabajaba en mina, comencé con este reto de estudiar una segunda carrera afin y quizás más adelante poder complementar estos conocimientos que he ido adquiendo en la ingeniería de minas o en cualquier otra rama. <br></h3>
 
