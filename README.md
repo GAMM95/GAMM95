@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jhonatan Mantilla</h1>
-<h3 align="center">Soy un profesional de la carrera de ingeniería de minas que en los ultimos 5 años, ha despertado en mi la pasin por la tecnología, interesado en saber como es que funciona un programa simple de escritorio,app y una página web es por eso que emprendí una nueva etapa en mi desarrollo profesional conocer más a fondo sobre el mundo de la programación. Mientras trabajaba como</h3>
+<h3 align="center">Soy un profesional de la carrera de ingeniería de minas que en los ultimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales, Interesado en saber cómo es que funciona un programa que es manejado desde escritorio de una PC, app mobil y página web, por lo que emprendí una nueva etapa en mi desarrollo profesional en adentrarme en el mundo de la programación.<br> Mientras trabajaba en mina, comencé con este reto de estudiar una segunda carrera afin y quizás más adelante poder complementar estos conocimientos que he ido adquiendo en la ingeniería de minas o en cualquier otra rama. <br></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
 
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/jhonatan.mantilla.1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jhonatan.mantilla.1995/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jhonatanmm1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jhonatanmm1995/" height="30" width="40" /></a>
-<a href="https://discord.gg/Jhonatan Mantilla#8997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jhonatan Mantilla#8997" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatan-mantilla-jmm190395/" height="30" width="40" /></a>
+<a href="https://fb.com/jhonatan.mantilla.1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonatan.mantilla.1995/" height="30" width="40" /></a>
+<a href="https://instagram.com/jhonatanmm1995/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhonatanmm1995/" height="30" width="40" /></a>
+<a href="https://discord.gg/#8997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8997" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
