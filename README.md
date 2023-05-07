@@ -1,5 +1,19 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)
 
+
+ <div align=center>
+  <a href="https://git.io/typing-svg" style="margin-left: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&duration=1&pause=1023&repeat=false&&lines=Nicol%C3%A1s+Perdomo" alt="Typing SVG" />
+  </a>
+</div>
+
+
+   <div align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&pause=1000&size=22&lines=Full+stack+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;En+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF+;Desarrollador+independiente+%F0%9F%90%92" alt="Typing SVG" />
+  </a>
+</div>
+
 <h1 align="center">Hola 👋, soy Jhonatan Mantilla</h1>
 <p align="center">Soy un profesional de la carrera de ingeniería de minas que en los últimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales. Interesado y apasionado en saber cómo es que funciona un programa que es manejado desde el escritorio de una PC, apps móviles y páginas web... por tal motivo, emprendí una nueva etapa en mi desarrollo profesional adentrándome en el mundo de la programación.</p><br>
 
