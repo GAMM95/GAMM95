@@ -2,14 +2,12 @@
 
 
  <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Jhonatan+Mantilla" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hola%2C+soy+Jhonatan+Mantilla" alt="Typing SVG" /></a>
 </div>
 
 
-   <div align=center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&pause=1000&size=22&lines=Full+stack+web+developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;En+busqueda+de+nuevos+desaf%C3%ADos+%F0%9F%8E%AF+;Desarrollador+independiente+%F0%9F%90%92" alt="Typing SVG" />
-  </a>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Ingeniero+de+minas;Programador+en+formaci%C3%B3n" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">Soy un profesional de la carrera de ingeniería de minas que en los últimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales. Interesado y apasionado en saber cómo es que funciona un programa que es manejado desde el escritorio de una PC, apps móviles y páginas web... por tal motivo, emprendí una nueva etapa en mi desarrollo profesional adentrándome en el mundo de la programación.</p><br>
