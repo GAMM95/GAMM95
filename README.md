@@ -48,5 +48,14 @@
 
 </div>
 
+<p align=center >¡Gracias por visitar mi perfil de GitHub!</p> 
+
+
+<div align=center>
+
+![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=orange)
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EmUSTTM?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--https://readme-typing-svg.demolab.com/demo/-->
