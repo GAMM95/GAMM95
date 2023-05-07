@@ -12,7 +12,6 @@
 
 <p align="center">Soy un profesional de la carrera de ingeniería de minas que en los últimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales. Interesado y apasionado en saber cómo es que funciona un programa que es manejado desde el escritorio de una PC, apps móviles y páginas web... por tal motivo, emprendí una nueva etapa en mi desarrollo profesional adentrándome en el mundo de la programación.</p><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -54,6 +53,7 @@
 <div align=center>
 ![](https://hit.yhype.me/github/profile?user_id=116129111)
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" /> </p>
 ![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=blue)
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EmUSTTM?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
