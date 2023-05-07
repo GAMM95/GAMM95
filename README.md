@@ -47,7 +47,10 @@
 
 </div>
 
-<p align="center">¡Gracias por visitar mi perfil de GitHub!</p> 
+
+<br>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&multiline=true&width=800&lines=%C2%A1Gracias+por+visitar+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
 
 
 <div align=center>
