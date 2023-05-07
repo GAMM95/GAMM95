@@ -51,11 +51,10 @@
 
 
 <div align=center>
-![](https://hit.yhype.me/github/profile?user_id=116129111)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" /> </p>
-![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=blue)
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EmUSTTM?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
