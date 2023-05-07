@@ -47,14 +47,17 @@
 
 </div>
 
-<p align=center >¡Gracias por visitar mi perfil de GitHub!</p> 
+<p align="center">¡Gracias por visitar mi perfil de GitHub!</p> 
 
 
 <div align=center>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" /> </p>
-
+<p> 
+ <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" />
+ 
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ </p>
+
 
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
