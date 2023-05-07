@@ -41,12 +41,12 @@
 
 <h2 align="left">Complementos</h2>
 
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamm95&show_icons=true&locale=en&layout=compact" alt="gamm95" background-color: "#23272e"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&locale=en" alt="gamm95" fill:"#23272e"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamm95&" alt="gamm95" />
 
-
+</div>
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
+<!--https://readme-typing-svg.demolab.com/demo/-->
