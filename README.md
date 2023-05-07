@@ -2,9 +2,7 @@
 
 
  <div align=center>
-  <a href="https://git.io/typing-svg" style="margin-left: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=440&height=45&color=754731&vCenter=true&duration=1&pause=1023&repeat=false&&lines=Jhonatan+Mantilla" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Jhonatan+Mantilla" alt="Typing SVG" /></a>
 </div>
 
 
