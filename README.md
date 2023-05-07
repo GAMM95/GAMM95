@@ -52,8 +52,9 @@
 
 
 <div align=center>
-
-![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=orange)
+![](https://hit.yhype.me/github/profile?user_id=116129111)
+ 
+![](https://komarev.com/ghpvc/?username=EmuSTTM&style=for-the-badge&color=blue)
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EmUSTTM?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 
