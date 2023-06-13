@@ -59,6 +59,10 @@
 <div align=center>
  
 <p> 
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=darguelles&label=Profile%20views&color=0e75b6&style=flat" alt="darguelles" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darguelles&show_icons=true&theme=transparent" alt="darguelles" /></p>
+ 
  <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" />
  
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
