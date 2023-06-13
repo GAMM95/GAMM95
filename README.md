@@ -40,10 +40,10 @@
 
 <h2 align="left">Complementos</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=transparent" alt="gamm95" /></p>
-
 <div align="center">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=transparent" alt="gamm95" /></p>
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamm95&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gamm95" background-color: "#23272e"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamm95&theme=transparent" alt="gamm95" />
