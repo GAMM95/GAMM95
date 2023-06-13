@@ -40,10 +40,13 @@
 
 <h2 align="left">Complementos</h2>
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamm95&show_icons=true&locale=en&layout=compact" alt="gamm95" background-color: "#23272e"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=transparent" alt="gamm95" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamm95&" alt="gamm95" />
+<div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamm95&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gamm95" background-color: "#23272e"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamm95&theme=transparent" alt="gamm95" />
 
 </div>
 
@@ -60,9 +63,6 @@
  
 <p> 
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=darguelles&label=Profile%20views&color=0e75b6&style=flat" alt="darguelles" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darguelles&show_icons=true&theme=transparent" alt="darguelles" /></p>
- 
  <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" />
  
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
