@@ -41,7 +41,7 @@
 <h2 align="left">Complementos</h2>
 
 <div align="center">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=flat" alt="gamm95" /> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=transparent" alt="gamm95" /></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamm95&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gamm95" background-color: "#23272e"/></p>
@@ -54,19 +54,16 @@
 <br>
 
 <div align="center">
- 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&multiline=true&width=800&lines=%C2%A1Gracias+por+visitar+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&duration=4000&pause=1000&center=true&multiline=true&width=800&lines=%C2%A1Gracias+por+visitar+mi+perfil+de+GitHub!" alt="Typing SVG" /></a>
+</div>
 
- </div>
-
-<div align=center>
+<div align=center orientation=horizontal>
  
 <p> 
-
  <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="gamm95" />
- 
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=7c007c&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  </p>
+ </div>
 
 
 
