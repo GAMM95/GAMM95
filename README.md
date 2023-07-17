@@ -12,7 +12,7 @@
 
 <p align="center">Soy un profesional de la carrera de ingeniería de minas que en los últimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales. Interesado y apasionado en saber cómo es que funciona un programa que es manejado desde el escritorio de una PC, apps móviles y páginas web... por tal motivo, emprendí una nueva etapa en mi desarrollo profesional adentrándome en el mundo de la programación.</p><br>
 
-
+<!--
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Actualmente me encuentro trabajando en **Challenge ONE - Encriptador de texto**
@@ -21,6 +21,7 @@
 
 - 📫 Como me puedes contactar: **jhonatanmm.1995@gmail.com**
 <br>
+-->
 <h2 align="left">Contáctame en redes sociales:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonatan-mantilla-jmm190395/" height="30" width="40" /></a>
