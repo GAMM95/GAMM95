@@ -7,7 +7,7 @@
 
 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&center=true&vCenter=true&width=435&lines=Ingeniero+de+minas+;Programador+en+formaci%C3%B3n" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&center=true&vCenter=true&width=435&lines=Ingeniero+de+minas+;Ingeniero de sistemas" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">Soy un profesional de la carrera de ingeniería de minas que en los últimos 5 años me he sentido mas atraído por la tecnología y sus avances exponenciales. Interesado y apasionado en saber cómo es que funciona un programa que es manejado desde el escritorio de una PC, apps móviles y páginas web... por tal motivo, emprendí una nueva etapa en mi desarrollo profesional adentrándome en el mundo de la programación.</p><br>
