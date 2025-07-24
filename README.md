@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div style="text-align: center;">
   <!-- Contador de visitas -->
   <span style="display: inline-block;">
         <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=eye&logoColor=white" alt="gamm95" />
@@ -8,37 +8,38 @@
   <span style="display: inline-block; margin-left: 10px;">
         <img  src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=0e75b6&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"  alt="followers"  title="Follow me on Github" />
    </span>
-
-
-
-
 </div>
-
-
- </p>
 <br>
 <!-- Titulo principal -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=400&size=25&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jhonatan+Mantilla+!+%F0%9F%91%8B;System+%F0%9F%92%BB+and+Mining+%E2%9B%8F%EF%B8%8F+Engineer+;Software+Developer+%E2%98%95" alt="Typing SVG" /></a>
 </div>
-<!-- Contenido descripcion -->
-<div align="justify">
+<!-- Contenido descripción -->
+<div align="justify" style="overflow: hidden;">
 
+  <!-- Sección sobre mí -->
+  <h3 align="left">🌟 About Me</h3>
+
+  <!-- Imagen animada a la derecha, ahora responsiva -->
+  <img 
+    src="https://raw.githubusercontent.com/GAMM95/GAMM95/main/coding.gif" 
+    alt="Coding GIF"
+    align="right"
+    style="
+      max-width: 40%;
+      height: auto;
+      border-radius: 20%;
+      margin-top: 10px;
+      margin-left: 15px;
+      float: right;
+    "
+  />
 
   <!-- Descripción principal -->
   <p style="font-size: 15px; letter-spacing: 1px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
     I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️. <br>
     With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.<br>
   </p>
-
-  <!-- Sección sobre mí -->
-<h3 align="left">🌟 About Me</h3>
-
-  <!-- Imagen animada a la derecha, con separación superior -->
-<img align="right" alt="Coding GIF"
-src="https://raw.githubusercontent.com/GAMM95/GAMM95/main/coding.gif"
-width="250px"
-style="border-radius: 20%; margin-top: 10px;"/>
 
   <ul>
     <li>🔭 I'm currently working on municipal tax and property management systems</li>
@@ -93,74 +94,81 @@ style="border-radius: 20%; margin-top: 10px;"/>
 </div>
 
 ##
-
+<!-- Estadísticas de GitHub -->
 ### 📊 GitHub Statistics
 
-<!-- Estilo centrado para los tres widgets -->
+<!-- Contenedor principal centrado -->
 <div align="center">
 
-<!-- Streak & General Stats centrados -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <!-- Streak y Stats con diseño responsivo -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <!-- Streak Stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
+      <img src="https://streak-stats.demolab.com/?user=gamm95&theme=react&border=61dafb&hide_border=true&border_radius=10" 
+           alt="Streak stats de gamm95" style="max-width: 100%; height: auto; border-radius: 10px;" />
+    </a>
   <!-- Streak Stats -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Streak Stats">
-        <img height="160" src="https://streak-stats.demolab.com/?user=gamm95&theme=react&border=61dafb&hide_border=true&border_radius=10" alt="Streak stats de gamm95" style="border-radius: 10px;" />
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
-        <img 
-        height="160" src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=react&border_color=61dafb&hide_border=true&border_radius=10" alt="GitHub stats de gamm95" style="border-radius: 10px;" />
-  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=gamm95&show_icons=true&theme=react&border_color=61dafb&hide_border=true&border_radius=10" 
+               alt="GitHub stats de gamm95" style="max-width: 100%; height: auto; border-radius: 10px;" />
+    </a>
+  </div>
 
   <!-- Lenguajes más usados -->
-  <div align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
-            <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&border_radius=10" alt="Lenguajes más usados" style="border-radius: 10px;" />
-        </a>
+  <div style="margin-top: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamm95&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&border_radius=10" 
+           alt="Lenguajes más usados" style="max-width: 100%; height: auto; border-radius: 10px;" />
+    </a>
   </div>
 
   <!-- Gráfico de actividad -->
-  <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamm95&theme=react-dark&bg_color=20232a&hide_border=true" alt="Gráfico de actividad de gamm95" width="100%" style="max-width: 100%; border-radius: 10px;" />
+  <div style="margin-top: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamm95&theme=react-dark&bg_color=20232a&hide_border=true" 
+         alt="Gráfico de actividad de gamm95" style="max-width: 100%; height: auto; border-radius: 10px;" />
   </div>
-</div>
 </div>
 
 ## 
 
 ### 👨‍💻 Repositories
 
-<!-- Fila 1 -->
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/GAMM95/consulta-transportes" title="consulta-transportes">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gamm95&repo=api-predios&theme=react&border_color=61dafb&border_radius=10">
+<!-- Fila 1 Responsive y centrada -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
+  <a href="https://github.com/GAMM95/consulta-transportes" title="consulta-transportes">
+    <img height="115"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=GAMM95&repo=consulta-transportes&theme=react&border_color=61dafb&border_radius=10" 
+         alt="consulta-transportes repo" />
   </a>
-  <a align="right" href="https://github.com/gamm95/sistema-arbitrios" title="sistema-arbitrios">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gamm95&repo=sistema-arbitrios&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
 
-<br/><br/><br/><br/><br/><br/>
-
-<!-- Fila 2 -->
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/gamm95/inventario-ui" title="inventario-ui">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gamm95&repo=inventario-ui&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/gamm95/calculadora-sql" title="calculadora-sql">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gamm95&repo=calculadora-sql&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/GAMM95/incidenciasMDE" title="incidenciasMDE">
+    <img height="115"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=GAMM95&repo=incidenciasMDE&theme=react&border_color=61dafb&border_radius=10" 
+         alt="incidenciasMDE repo" />
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<!-- Fila 2 Responsive y centrada -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <a href="https://github.com/GAMM95/PrediHipertension" title="PrediHipertension">
+    <img height="115" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=GAMM95&repo=PrediHipertension&theme=react&border_color=61dafb&border_radius=10" 
+         alt="PrediHipertension repo" />
+  </a>
 
-<h4 align="center">
-  <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories">🔎 Show more ... 🔍</a>
-</h4>
+  <a href="https://github.com/GAMM95/Conversor_Unidades" title="Conversor_Unidades">
+    <img height="115" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=GAMM95&repo=Conversor_Unidades&theme=react&border_color=61dafb&border_radius=10" 
+         alt="Conversor_Unidades repo" />
+  </a>
+</div>
 
-
-<br>
-
+<!-- Enlace centrado al final -->
+<div align="center">
+  <h4>
+        <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories">🔎 Show more ... 🔍</a>
+  </h4>
+</div>
 
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
