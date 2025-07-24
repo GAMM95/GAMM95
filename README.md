@@ -26,6 +26,7 @@
     alt="Coding GIF"
     align="right"
     style="
+      padding: 0 0 10px 10px;
       max-width: 40%;
       height: auto;
       border-radius: 20%;
