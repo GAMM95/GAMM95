@@ -40,8 +40,8 @@
   <li>📚 Currently learning how to build web applications using <strong>Java Spring Boot</strong></li>
   <li>👨🏻‍💻 Most of my projects are available here on <a href="https://github.com/GAMM95?tab=repositories">GitHub</a></li>
   <li>💬 Ask me anything about backend development, SQL Server, or software architecture</li>
-  <li>📫 Reach me on <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/">LinkedIn</a></li>
-  <li>📝 <a href="https://github.com/GAMM95/GAMM95/blob/main/CV_Jhonatan_Mantilla.pdf">Check out my resume</a></li>
+  <li>📫 Reach me on <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank">LinkedIn</a></li>
+  <li>📝 <a href="https://drive.google.com/file/d/1lY7nH1DlR1wRFNER1DKt3nG862PCUdQu/view?usp=drive_link" target="_blank">Check out my resume</a></li>
 </ul>
 
 </div>
@@ -156,21 +156,12 @@
   </a>
 </div>
 
+<!-- Enlace centrado al final -->
 <div align="center">
   <h4>
      🔎 <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories"><strong>Show more ...</strong></a> 🔍
   </h4>
 </div>
-
-
-
-<!-- Enlace centrado al final -->
-<div align="center">
-  <h4>
-        <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories">🔎 Show more ... 🔍</a>
-  </h4>
-</div>
-
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--https://readme-typing-svg.demolab.com/demo/-->
