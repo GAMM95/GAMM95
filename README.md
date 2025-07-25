@@ -17,40 +17,30 @@
 <!-- Contenido descripción -->
 <div align="justify" style="overflow: hidden;">
 
-  <!-- Sección sobre mí -->
-  <h3 align="left">🌟 About Me</h3>
+  <!-- About Me section -->
+<h3 align="left">🌟 About Me</h3>
 
-  <!-- Imagen animada a la derecha, ahora responsiva -->
-  <img 
-    src="https://raw.githubusercontent.com/GAMM95/GAMM95/main/coding.gif" 
-    alt="Coding GIF"
-    align="right"
-    style="
-      padding: 0 0 10px 10px;
-      max-width: 40%;
-      height: auto;
-      border-radius: 20%;
-      margin-top: 10px;
-      margin-left: 15px;
-      float: right;
-    "
-  />
+<img 
+  src="https://raw.githubusercontent.com/GAMM95/GAMM95/main/coding.gif" 
+  alt="Coding GIF"
+  align="right"
+  width="200"
+/>
 
-  <!-- Descripción principal -->
-  <p style="font-size: 15px; letter-spacing: 1px; line-height: 1.8; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️. <br>
-    With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.<br>
-  </p>
+<p>
+  I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️.  
+  With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.
+</p>
 
-  <ul>
-    <li>🔭 I'm currently working on municipal tax and property management systems</li>
-    <li>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms</li>
-    <li>📚 Currently learning how to build web applications using <strong>Java Spring Boot</strong></li>
-    <li>👨🏻‍💻 Most of my projects are available here on <a href="https://github.com/GAMM95?tab=repositories" target="_blank">GitHub</a></li>
-    <li>💬 Ask me anything about backend development, SQL Server, or software architecture</li>
-    <li>📫 Reach me on <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank">LinkedIn</a></li>
-    <li>📝 <a href="https://github.com/GAMM95/GAMM95/blob/main/CV_Jhonatan_Mantilla.pdf">Check out my resume</a></li>
-  </ul>
+<ul>
+  <li>🔭 I'm currently working on municipal tax and property management systems</li>
+  <li>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms</li>
+  <li>📚 Currently learning how to build web applications using <strong>Java Spring Boot</strong></li>
+  <li>👨🏻‍💻 Most of my projects are available here on <a href="https://github.com/GAMM95?tab=repositories">GitHub</a></li>
+  <li>💬 Ask me anything about backend development, SQL Server, or software architecture</li>
+  <li>📫 Reach me on <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/">LinkedIn</a></li>
+  <li>📝 <a href="https://github.com/GAMM95/GAMM95/blob/main/CV_Jhonatan_Mantilla.pdf">Check out my resume</a></li>
+</ul>
 
 </div>
 
