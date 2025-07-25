@@ -27,10 +27,12 @@
   width="200"
 />
 
-<p>
-  I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️.  
-  With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.
-</p>
+<div style="padding-right: 20px;">
+    <p>
+      I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️.  
+      With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.
+    </p>
+</div>
 
 <ul>
   <li>🔭 I'm currently working on municipal tax and property management systems</li>
@@ -153,6 +155,14 @@
          alt="Conversor_Unidades repo" />
   </a>
 </div>
+
+<div align="center">
+  <h4>
+     🔎 <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories"><strong>Show more ...</strong></a> 🔍
+  </h4>
+</div>
+
+
 
 <!-- Enlace centrado al final -->
 <div align="center">
