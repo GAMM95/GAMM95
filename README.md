@@ -9,86 +9,107 @@
         <img  src="https://custom-icon-badges.demolab.com/github/followers/GAMM95?color=0e75b6&labelColor=555555&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"  alt="followers"  title="Follow me on Github" />
    </span>
 </div>
-<br>
+
+###
+
 <!-- Titulo principal -->
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=400&size=25&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Jhonatan+Mantilla+!+%F0%9F%91%8B;System+%F0%9F%92%BB+and+Mining+%E2%9B%8F%EF%B8%8F+Engineer+;Software+Developer+%E2%98%95" alt="Typing SVG" /></a>
 </div>
-<!-- Contenido descripción -->
-<div align="justify" style="overflow: hidden;">
 
-  <!-- About Me section -->
-<h3 align="left">🌟 About Me</h3>
+###
 
-<img 
-  src="https://raw.githubusercontent.com/GAMM95/GAMM95/main/coding.gif" 
-  alt="Coding GIF"
-  align="right"
-  width="200"
-/>
+<h2 align="left">🌟 About Me</h2>
 
-<div style="padding-right: 20px;">
-    <p>
-      I am a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️.  
-      With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.
-    </p>
-</div>
+###
 
-<ul>
-  <li>🔭 I'm currently working on municipal tax and property management systems</li>
-  <li>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms</li>
-  <li>📚 Currently learning how to build web applications using <strong>Java Spring Boot</strong></li>
-  <li>👨🏻‍💻 Most of my projects are available here on <a href="https://github.com/GAMM95?tab=repositories">GitHub</a></li>
-  <li>💬 Ask me anything about backend development, SQL Server, or software architecture</li>
-  <li>📫 Reach me on <a href="https://linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank">LinkedIn</a></li>
-  <li>📝 <a href="https://drive.google.com/file/d/1lY7nH1DlR1wRFNER1DKt3nG862PCUdQu/view?usp=drive_link" target="_blank">Check out my resume</a></li>
-</ul>
+<p align="left">I'm a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️. With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.</p>
 
-</div>
+###
 
-## 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
 
-<!-- Lenguajes de programacion y herramientas -->
-### 💻 Languages & Tools I Use
-<!-- Contenedor principal centrado -->
+###
+
+<p align="left">🔭 I'm currently working on municipal tax and property management systems<br>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms<br>📚 Currently learning how to build web applications using Java Spring Boot<br>👨🏻‍💻 Most of my projects are available here on GitHub<br>💬 Ask me anything about backend development, SQL Server, or software architecture<br>📝 <a href="https://drive.google.com/file/d/1lY7nH1DlR1wRFNER1DKt3nG862PCUdQu/view?usp=drive_link" target="_blank">Check out my resume</a>
+
+###
+
 <div align="center">
-
-  <!-- Programming Languages -->
-  <div style="margin-bottom: 20px;">
-    <h4>🧑‍💻 Programming Languages</h4>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" title="PHP" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" title="Flutter" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" title="Dart" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" />
-    </div>
-  </div>
-
-  <!-- Tools & Frameworks -->
-  <div>
-    <h4>⚙️ Tools & Frameworks</h4>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" title="CSS3" />
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" title="Tailwind CSS" />
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring Boot" />
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" title="SQL Server" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL" />
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" title="Firebase" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git" />
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" title="Figma" />
-    </div>
-  </div>
+  <a href="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gamm.2398/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30" alt="instagram logo"  />
+  </a>
+  <a href="jhonatanmm.1995@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="30" alt="gmail logo"  />
+  </a>
 </div>
 
-##
-<!-- Estadísticas de GitHub -->
-### 📊 GitHub Statistics
+###
+
+<h2 align="left">💻 Languages & Tools I Use</h2>
+
+###
+
+<h4 align="center">🧑‍💻 Programming Languages</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+</div>
+
+###
+
+<h4 align="center">⚙️ Framworks</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<p align="center">🗄️ Databases</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Statistics</h2>
+
+###
+
+<br clear="both">
 
 <!-- Contenedor principal centrado -->
 <div align="center">
@@ -115,14 +136,17 @@
     </a>
   </div>
 
-  <!-- Gráfico de actividad -->
-  <div style="margin-top: 20px;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamm95&theme=react-dark&bg_color=20232a&hide_border=true" 
-         alt="Gráfico de actividad de gamm95" style="max-width: 100%; height: auto; border-radius: 10px;" />
-  </div>
 </div>
 
-## 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ### 👨‍💻 Repositories
 
@@ -162,6 +186,20 @@
      🔎 <a href="https://github.com/gamm95?tab=repositories" title="Show more repositories"><strong>Show more ...</strong></a> 🔍
   </h4>
 </div>
+
+###
+
+### 🎧 Spotify | Now Playing
+
+<p align="center">
+  <a href="https://gamm95.pythonanywhere.com/link">
+    <img
+      src="https://gamm95.pythonanywhere.com"
+      alt="Current Spotify Song"
+    />
+  </a>
+</p>
+
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--https://readme-typing-svg.demolab.com/demo/-->
