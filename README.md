@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <!-- Contador de visitas -->
   <span style="display: inline-block;">
         <img src="https://komarev.com/ghpvc/?username=gamm95&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=eye&logoColor=white" alt="gamm95" />
