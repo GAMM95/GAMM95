@@ -200,7 +200,11 @@
   </a>
 </p>
 
-
+<div align ="center">
+  
+  ![snake gif](https://github.com/gamm95/gamm95/blob/output/github-snake-dark.svg)
+  
+</div>
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--https://readme-typing-svg.demolab.com/demo/-->
 <!--https://markdownlivepreview.com/-->
