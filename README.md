@@ -140,11 +140,17 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gamm95/gamm95/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
+
+<div align ="center">
+  
+  ![snake gif](https://github.com/gamm95/gamm95/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ###
 
@@ -200,11 +206,7 @@
   </a>
 </p>
 
-<div align ="center">
-  
-  ![snake gif](https://github.com/gamm95/gamm95/blob/output/github-snake-dark.svg)
-  
-</div>
+
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 <!--https://readme-typing-svg.demolab.com/demo/-->
 <!--https://markdownlivepreview.com/-->
