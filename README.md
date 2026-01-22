@@ -31,7 +31,8 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on municipal tax and property management systems<br>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms<br>📚 Currently learning how to build web applications using Java Spring Boot<br>👨🏻‍💻 Most of my projects are available here on GitHub<br>💬 Ask me anything about backend development, SQL Server, or software architecture<br>📝 <a href="https://drive.google.com/file/d/1lY7nH1DlR1wRFNER1DKt3nG862PCUdQu/view?usp=drive_link" target="_blank">Check out my resume</a>
+<p align="left">🔭 I'm currently working on municipal tax and property management systems<br>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms<br>📚 Currently learning how to build web applications using Java Spring Boot<br>👨🏻‍💻 Most of my projects are available here on GitHub<br>💬 Ask me anything about backend development, SQL Server, or software architecture<br>📝 <a href="https://drive.google.com/file/d/1swWIqSxCY8NoUDpgvi23eZ3-J8_LEm62/view?usp=drive_link" target="_blank">Check out my resume</a>
+</p>
 
 ###
 
@@ -80,8 +81,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
-  <img width="20" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"  />
+  <img width="20" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
@@ -98,8 +99,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
-  <img width="20" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo"  />
+  <img width="20" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
 </div>
 
