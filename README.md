@@ -196,7 +196,7 @@
 
 ###
 
-### 🎧 Spotify | Now Playing
+<!--### 🎧 Spotify | Now Playing
 
 <p align="center">
   <a href="https://gamm95.pythonanywhere.com/link">
@@ -205,7 +205,7 @@
       alt="Current Spotify Song"
     />
   </a>
-</p>
+</p>-->
 
 
 <!--*https://rahuldkjain.github.io/gh-profile-readme-generator/-->
