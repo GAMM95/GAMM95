@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a versatile professional who easily adapts to various roles depending on the project's needs — whether as a Full Stack Web Developer 🌐, Backend Developer ☕, or Database Engineer 🗃️. With a background in both Systems and Mining Engineering ⛏️💻, I love exploring new technologies and leveraging them to build efficient, scalable, and impactful solutions 🛠️.</p>
+<p align="left">I'm a Software Developer with a background in Systems Engineering and Mining Engineering. I specialize in backend development, RESTful APIs, database management, and software architecture. I enjoy building maintainable, scalable, and efficient solutions using Java, Spring Boot, and SQL technologies.</p>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on municipal tax and property management systems<br>🤝 I'm looking to collaborate on backend APIs and automation for public sector platforms<br>📚 Currently learning how to build web applications using Java Spring Boot<br>👨🏻‍💻 Most of my projects are available here on GitHub<br>💬 Ask me anything about backend development, SQL Server, or software architecture<br>📝 <a href="https://drive.google.com/file/d/1swWIqSxCY8NoUDpgvi23eZ3-J8_LEm62/view?usp=drive_link" target="_blank">Check out my resume</a>
+<p align="left">🔭 I'm currently working on municipal tax and property management systems<br>🤝 Interested in collaborating on backend APIs and automation projects.<br>📚 Continuously improving my skills in Java, Spring Boot, and software architecture.<br>👨🏻‍💻 Explore my repositories to see my projects and technical work.<br>💬 Ask me about Java, REST APIs, SQL Server, and backend development.<br>📝 <a href="https://drive.google.com/file/d/1swWIqSxCY8NoUDpgvi23eZ3-J8_LEm62/view?usp=drive_link" target="_blank">Check out my resume</a>
 </p>
 
 ###
@@ -50,7 +50,7 @@
 
 ###
 
-<h2 align="left">💻 Languages & Tools I Use</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="center">⚙️ Framworks</h4>
+<h4 align="center">⚙️ Frameworks</h4>
 
 ###
 
