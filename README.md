@@ -11,8 +11,8 @@
     </a>
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
     </a>
     <a href="https://github.com/GAMM95?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
@@ -93,11 +93,20 @@ I enjoy designing maintainable, scalable, and efficient solutions using Java, Sp
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jhonatan-mantilla-jmm190395/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="Connect on LinkedIn"
+    />
+  </a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/GAMM95">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:jhonatanmm.1995@gmail.com">Email me</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jmantillam.95@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"
+      alt="Contact me via Gmail"
+    />
+  </a>
+
   <p><i>Building software with purpose, one solution at a time.</i></p>
 </div>
 
